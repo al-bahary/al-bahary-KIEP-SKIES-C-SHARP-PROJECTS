@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.AssemblyInfo.cs
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\bin\Debug\net8.0\Calc_Final_GPA.exe
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\bin\Debug\net8.0\Calc_Final_GPA.deps.json
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\bin\Debug\net8.0\Calc_Final_GPA.runtimeconfig.json
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\bin\Debug\net8.0\Calc_Final_GPA.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\bin\Debug\net8.0\Calc_Final_GPA.pdb
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\refint\Calc_Final_GPA.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.pdb
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\Calc_Final_GPA.genruntimeconfig.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Calc_Final_GPA\obj\Debug\net8.0\ref\Calc_Final_GPA.dll
