@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\bin\Debug\net8.0\Marks_Calc.exe
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\bin\Debug\net8.0\Marks_Calc.deps.json
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\bin\Debug\net8.0\Marks_Calc.runtimeconfig.json
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\bin\Debug\net8.0\Marks_Calc.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\bin\Debug\net8.0\Marks_Calc.pdb
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.AssemblyInfo.cs
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\refint\Marks_Calc.dll
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.pdb
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\Marks_Calc.genruntimeconfig.cache
+C:\Users\admin\Desktop\c#\ASSESSMENT TASKS\Marks_Calc\obj\Debug\net8.0\ref\Marks_Calc.dll
